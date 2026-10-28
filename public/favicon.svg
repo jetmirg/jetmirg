@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="JG">
+  <rect width="64" height="64" rx="14" fill="#0E1524"/>
+  <svg x="6" y="8" width="52" height="48" viewBox="0 0 64 64">
+    <defs>
+      <linearGradient id="jg-fav" x1="6" y1="10" x2="58" y2="54" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#1454e4"/>
+        <stop offset="0.45" stop-color="#2a74ff"/>
+        <stop offset="1" stop-color="#3ad4f2"/>
+      </linearGradient>
+    </defs>
+    <path d="M8 14h22v28c0 8-6 13-14 13H10" fill="none" stroke="url(#jg-fav)" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M56 16H40c-8 0-12 6-12 15s5 16 14 16h14V34H42" fill="none" stroke="url(#jg-fav)" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</svg>
